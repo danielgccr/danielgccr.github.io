@@ -1,3 +1,18 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+theme = 'hodierno'
+
+[menu]
+[[menu.main]]
+    name = 'home'
+    url = '/'
+    weight = -120
+
+[[menu.main]]
+    name = 'ethos'
+    url = '/ethos/'
+    weight = -110
+
+[permalinks]
+    posts = "posts/:filename"
