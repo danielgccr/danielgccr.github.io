@@ -34,7 +34,7 @@ Prefacio. Planisferio de la web: pasado y presente.
 
 1.  Comparte pensares y pesares, sé soberano. ¿Por qué renunciar a los oligopolios?
 
-2.  Planificando tu web. Ideas de diseño, bocetos y tipografías. Qué se pretende comunicar. Qué hemos aprendido de más de 30 años de la [WWW](http://WWW).
+2.  Planificando tu web. Ideas de diseño, bocetos y tipografías. Qué se pretende comunicar. Qué hemos aprendido de más de 30 años de la WWW.
     2.1. Markdown/Pandoc
 
 3.  HTML básico.
@@ -42,13 +42,13 @@ Prefacio. Planisferio de la web: pasado y presente.
 4.  HTML para el día a día.
 
 5.  CSS.
-    3.1 CSS para Markdown/Pandoc
+    5.1 CSS para Markdown/Pandoc
 
 6.  Diseños prácticos.
-    4.1 GRID
-    4.2 FLEXBOX
-    5.3 Exposición de por qué usar tus propios diseños.
-    5.4 Cuando hay que usar frameworks propios.
+    6.1 GRID
+    6.2 FLEXBOX
+    6.3 Exposición de por qué usar tus propios diseños.
+    6.4 Cuando hay que usar frameworks propios.
 
 7.  Sitios estáticos
 

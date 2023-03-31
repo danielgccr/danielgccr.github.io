@@ -12,7 +12,7 @@ Conocido como el lugar para compartir y enlazar conocimiento por excelencia, la 
 
 # Estética
 
-* [PicoCSS](https://picocss.com). An elegant framework for adding some style to your page.
+* [PicoCSS](https://picocss.com). ¿Se necesita algo minimalista y elegante? Buen framework ligero.
 
 * [Pandoc CSS Markkdown](https://jez.io/pandoc-markdown-css-theme/). Starting from there you can style your page
 
