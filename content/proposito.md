@@ -18,3 +18,24 @@ Por último, también queremos transmitir una idea general de cómo funcionan la
 Ese desconocimiento es lo que propicia la aparición [de excusas como ésta](https://twitter.com/Pauliwiss1/status/1634889032793755648). Se busca publicar en el sitio más visible y, a cambio, se entrega tu privacidad. Pasa a ser un trocito más de información para entrenar según qué sistemas de inteligencia artificial y aprendizaje automático.
 
 [Buenas réplicas también hay](https://twitter.com/UnaPrendefuegos/status/1634937870900396032). La naturaleza de las redes sociales queda camuflada entre cientos de capas de abstracción y no se terminan de trasladar conceptos.
+
+Éste es nuestro planisferio hoy por hoy:
+
+Prefacio. Planisferio de la web: pasado y presente.
+1. Comparte pensares y pesares, sé soberano. ¿Por qué renunciar a los oligopolios?
+2. Planificando tu web. Ideas de diseño, bocetos y tipografías. Qué se pretende comunicar. Qué hemos aprendido de más de 30 años de la WWW.
+3. Markdown/Pandoc
+4. HTML básico.
+5. HTML para el día a día.
+6. CSS.
+6.1 CSS para Markdown/Pandoc
+7. Diseños prácticos.
+7.1 GRID
+7.2 FLEXBOX
+7.3 Exposición de por qué usar tus propios diseños.
+7.4 Cuando hay que usar frameworks propios.
+8. Sitios estáticos
+9. CI/CD: despliegue de tus obras.
+10. Plvs vltra, dónde aprender más cosas de la web.
+
+Además una sección fija dedicada a los enlaces y en constante ampliación.

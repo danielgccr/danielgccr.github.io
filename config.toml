@@ -1,18 +1,28 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Web hodierna'
 theme = 'hodierno'
 
 [menu]
 [[menu.main]]
-    name = 'home'
+    name = 'Principal'
     url = '/'
     weight = -120
 
 [[menu.main]]
-    name = 'ethos'
-    url = '/ethos/'
+    name = 'Propósito'
+    url = '/proposito/'
     weight = -110
+
+[[menu.main]]
+    name = 'Enlaces'
+    url = '/enlaces/'
+    weight = -100
+
+[[menu.main]]
+    name = 'Libros'
+    url = '/libros/'
+    weight = -90
 
 [permalinks]
     posts = "posts/:filename"

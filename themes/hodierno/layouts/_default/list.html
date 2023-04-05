@@ -1,4 +1,13 @@
 {{ partial "head.html" . -}}
+<nav>1. Comparte pensares y pesares, sé soberano. ¿Por qué renunciar a los oligopolios?</nav>
+<article>
+    <img src="sharewww.png"/>
+    {{ .Content -}}
+<ul>
+{{ range .Pages }}
+	<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+{{ end }}
 
 
+</article>
 {{- partial "footer.html" . }}

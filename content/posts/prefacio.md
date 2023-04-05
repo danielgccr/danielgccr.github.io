@@ -5,7 +5,9 @@ subtitle: 'Planisferio de la web: pasado y presente'
 
 # Una historia.
 
-Estoy sentado. No estoy haciendo nada fundamentalmente distinto de lo que haría hace un cuarto de siglo. Estoy escribiendo estas líneas. Navego insertando enlaces en el navegador que me toque, hoy Vivaldi, uno de tantos sabores del motor Blink. Lo elijo particularmente por detalles como poder tomar notas al vuelo o capturar páginas web. Giro la silla y veo el cielo, pensando en esta maravilla que nos hemos dado. Tomamos como cotidiano el exponer un trozo de información cualquiera al mundo, sea un texto, una imagen o un vídeo.
+Estoy sentado. No estoy haciendo nada fundamentalmente distinto de lo que haría hace un cuarto de siglo. Estoy escribiendo estas líneas. Navego insertando enlaces en el navegador que me toque, hoy Vivaldi, uno de tantos sabores del motor Blink. Lo elijo particularmente por detalles como poder tomar notas al vuelo o capturar páginas web. Giro la silla y veo el cielo, pensando en esta maravilla que nos hemos dado. Tomamos como cotidiano el exponer un trozo de información cualquiera al mundo, sea un texto, una imagen o un vídeo, así como enlazar otros trocitos, pero no fue siempre así. 
+
+La idea de un sistema de hipertexto como tal, enlazando páginas de tal forma que formen una telaraña o _web_ es relativamente reciente.
 
 ## El pasado
 
@@ -26,11 +28,15 @@ cd [repositorio]
 code .
 ```
 
-Antes de ello, debemos haber creado nuestro repositorio en Github, sea de este estilo: `https://github.com/[usuario]/[repositorio].git`. Nos vamos a remontar aún más atrás. ¿Para qué sirve Git? Sencillamente, es un sistema de control de versiones. ¿Y para qué nos vendrá bien? Imaginemos que tenemos que empezar un proyecto, sea esta página web o una enciclopedia. Trabajaremos con texto plano (¡esto es importante, ya que permitirá trazar mejor los cambios!). No estaremos trabajando con ficheros Word, que en nuestro editor se verán así:
+Antes de ello, debemos haber creado nuestro repositorio en Github, sea de este estilo: `https://github.com/[usuario]/[repositorio].git`. Nos vamos a remontar aún más atrás. ¿Para qué sirve Git? Sencillamente, es un sistema de control de versiones. ¿Y para qué nos vendrá bien? Imaginemos que tenemos que empezar un proyecto, sea esta página web o una enciclopedia y no queremos volver a incurrir en prácticas como archivos denominados «Trabajo nuevo 1.txt» o que se pierda todo si la pifiamos. Trabajaremos con texto plano (¡esto es importante, ya que permitirá trazar mejor los cambios!). No estaremos trabajando con ficheros Word, que en nuestro editor se verán así:
 
 `dposdsdoidsoidsoids`
 
-Prefacio. Planisferio de la web: pasado y presente.
+¿Dónde se aloja esta página, como la de ejemplo? Neocities, sucesor espiritual de Geocities, es un servicio de alojamiento web, además de ser una red sovial primigenia, en donde crear fácilmente tu espacio en la web. [Ejemplos](https://districts.neocities.org) abundan, fuentes de inspiración.
+
+Así, manos a la obra, tenemos este índice para que veáis lo que nos espera.
+
+**Prefacio. Planisferio de la web: pasado y presente.**
 
 1.  Comparte pensares y pesares, sé soberano. ¿Por qué renunciar a los oligopolios?
 

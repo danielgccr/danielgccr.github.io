@@ -16,6 +16,10 @@ Conocido como el lugar para compartir y enlazar conocimiento por excelencia, la 
 
 * [Pandoc CSS Markkdown](https://jez.io/pandoc-markdown-css-theme/). Starting from there you can style your page
 
+* [Contrast Rebellion](https://contrastrebellion.com/)
+
+* [UX Myths](https://uxmyths.com)
+
 # Sitios chulos
 
 * [Presearch](https://presearch.io). Some people has said that it's way better than Duckduckgo, with a simple secret, concatenation of several web searchers.
