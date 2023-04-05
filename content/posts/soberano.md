@@ -1,5 +1,5 @@
 ---
-title: "1. Comparte pensares y pesares, sé soberano."
+title: "1. Comparte pensares, pareceres y pesares, sé soberano."
 summary: 'O cómo hacerte menos vulnerable a los oligopolios'
 date: 2003-03-31T01:36:50+02:00
 ---

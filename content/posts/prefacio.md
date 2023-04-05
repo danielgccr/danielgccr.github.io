@@ -6,9 +6,11 @@ date: 2003-03-31T01:36:50+02:00
 
 # Una historia.
 
-Estoy sentado. No estoy haciendo nada fundamentalmente distinto de lo que haría hace un cuarto de siglo. Estoy escribiendo estas líneas. Navego insertando enlaces en el navegador que me toque, hoy Vivaldi, uno de tantos sabores del motor Blink. Lo elijo particularmente por detalles como poder tomar notas al vuelo o capturar páginas web. Giro la silla y veo el cielo, pensando en esta maravilla que nos hemos dado. Tomamos como cotidiano el exponer un trozo de información cualquiera al mundo, sea un texto, una imagen o un vídeo, así como enlazar otros trocitos, pero no fue siempre así. 
+Estoy sentado. No estoy haciendo nada fundamentalmente distinto de lo que haría hace un cuarto de siglo. Estoy escribiendo estas líneas. Navego insertando enlaces en el navegador que me toque, hoy Vivaldi, uno de tantos sabores del motor Blink. Lo elijo particularmente por detalles como poder tomar notas al vuelo o capturar páginas web. Giro la silla y veo el cielo, pensando en esta maravilla que nos hemos dado. Tomamos como cotidiano el exponer un trozo de información cualquiera al mundo, sea un texto, una imagen o un vídeo, así como enlazar otros trocitos, pero no fue siempre así.
 
-La idea de un sistema de hipertexto como tal, enlazando páginas de tal forma que formen una telaraña o _web_ es relativamente reciente.
+
+
+La idea de un sistema de hipertexto como tal, enlazando trocitos de información, resumidos en páginas, de tal forma que formen una telaraña o _web_ es relativamente reciente. Memex, de Vannevar Bush en 1945, es el predecesor. En [_As We May Think_](https://web.archive.org/web/20011215033047/http://www.isg.sfu.ca/~duchier/misc/vbush/vbush-all.shtml) se exponía la idea. Bush observa que la forma en la que se comunicaban los descubrimientos científicos llevaba ya generaciones y tenía síntomas de aniquilosamiento, cada vez más información, más difícil de encontrar.
 
 ## El pasado
 
@@ -20,7 +22,11 @@ Hoy, en estos renglones, nos extenderemos en cómo ser soberano en la Web, en c�
 
 # Web hodierna
 
-Éste es un sitio web para que el respetable pergeñe su espacio en Internet. Iba a ser una serie de artículos en [mi bitácora](http://robledo.prose.sh), pero la variedad de conocimientos a transmitir, el alcance y poner las notas sueltas que tengo en algo coherente implica un trabajo de mayores dimensiones. Los proyectos empiezan con un puñado de comandos, advirtiendo que previamente hemos de tener nuestra clave SSH, [muy bien explicado en este curso de The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations#git-basics):
+Éste es un sitio web para que el respetable pergeñe su espacio en Internet. Iba a ser una serie de artículos en [mi bitácora](http://robledo.prose.sh), pero la variedad de conocimientos a transmitir, el alcance y poner las notas sueltas que tengo en algo coherente implica un trabajo de mayores dimensiones, acabando por ser una página propia en [Hugo](https://gohugo.io).
+
+## ¿Cómo arrancar un proyecto?
+
+Los proyectos empiezan con un puñado de comandos, advirtiendo que previamente hemos de tener nuestra clave SSH, [muy bien explicado en este curso de The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations#git-basics):
 
 ```bash
 cd ~/www
@@ -31,34 +37,46 @@ code .
 
 Antes de ello, debemos haber creado nuestro repositorio en Github, sea de este estilo: `https://github.com/[usuario]/[repositorio].git`. Nos vamos a remontar aún más atrás. ¿Para qué sirve Git? Sencillamente, es un sistema de control de versiones. ¿Y para qué nos vendrá bien? Imaginemos que tenemos que empezar un proyecto, sea esta página web o una enciclopedia y no queremos volver a incurrir en prácticas como archivos denominados «Trabajo nuevo 1.txt» o que se pierda todo si la pifiamos. Trabajaremos con texto plano (¡esto es importante, ya que permitirá trazar mejor los cambios!). No estaremos trabajando con ficheros Word, que en nuestro editor se verán así:
 
-`dposdsdoidsoidsoids`
+![](/assets/garbled_docx.png)
 
 ¿Dónde se aloja esta página, como la de ejemplo? Neocities, sucesor espiritual de Geocities, es un servicio de alojamiento web, además de ser una red sovial primigenia, en donde crear fácilmente tu espacio en la web. [Ejemplos](https://districts.neocities.org) abundan, fuentes de inspiración.
 
+# ¿Qué necesito?
+
+* Un editor de texto plano. Muchos usaréis Windows, en este caso [Notepad++](https://notepad-plus-plus.org/downloads/) es muy bueno
+
 Así, manos a la obra, tenemos este índice para que veáis lo que nos espera.
 
-**Prefacio. Planisferio de la web: pasado y presente.**
+0. **Prefacio. Planisferio de la web: pasado y presente.**
 
-1.  Comparte pensares y pesares, sé soberano. ¿Por qué renunciar a los oligopolios?
+1.  Comparte tus pensares, pareceres y pesares, sé soberano. ¿Por qué renunciar a los oligopolios?
 
-2.  Planificando tu web. Ideas de diseño, bocetos y tipografías. Qué se pretende comunicar. Qué hemos aprendido de más de 30 años de la WWW.
-    2.1. Markdown/Pandoc
+2.  Planificando tu web
 
-3.  HTML básico.
+3.  HTML como si estuvieses en 1993
 
-4.  HTML para el día a día.
+4. Markdown/Pandoc
 
-5.  CSS.
-    5.1 CSS para Markdown/Pandoc
+    4.1 CSS básico
 
-6.  Diseños prácticos.
-    6.1 GRID
-    6.2 FLEXBOX
-    6.3 Exposición de por qué usar tus propios diseños.
-    6.4 Cuando hay que usar frameworks propios.
+5.  HTML moderno
 
-7.  Sitios estáticos
+6.  CSS a fondo
 
-8.  CI/CD: despliegue de tus obras.
+    6.1 Flexbox
 
-9.  Plvs vltra, dónde aprender más cosas de la web.
+    6.2 Grid
+
+7.  Diseño web práctico
+
+    7.1 Interfaces.
+
+    7.2 Exposición de por qué usar tus propios diseños.
+
+    7.3 Cuando hay que usar frameworks propios.
+
+8.  Sitios estáticos
+
+9.  CI/CD: despliegue de tus obras.
+
+10.  Plvs vltra, dónde aprender más cosas de la web y propuesta de proyecto final
