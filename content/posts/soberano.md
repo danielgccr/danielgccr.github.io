@@ -1,6 +1,7 @@
 ---
 title: "1. Comparte pensares y pesares, sé soberano."
-subtitle: 'O cómo hacerte menos vulnerable a los oligopolios'
+summary: 'O cómo hacerte menos vulnerable a los oligopolios'
+date: 2003-03-31T01:36:50+02:00
 ---
 
 Hoy gran parte de lo que ve uno en Internet es parte de unas cuantas grandes corporaciones, incluso formando oligopolios y monopolios. ¿A dónde va para aprender algo? Redes sociales. ¿A dónde va para exponer información? Redes sociales, otra vez. Surgen preguntas. La respuesta es similar y monótona, pero con los avances tecnológicos y lo que tenemos, no tiene por qué ser así. Incluso cuando desde una de esas redes sociales por antonomasia uno va a un enlace, muchas veces se le advertirá de que ahí hay dragones, que se está adentrando en _terra incognita_.

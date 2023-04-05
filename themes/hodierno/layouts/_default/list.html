@@ -1,13 +1,14 @@
 {{ partial "head.html" . -}}
-<nav>1. Comparte pensares y pesares, sé soberano. ¿Por qué renunciar a los oligopolios?</nav>
+<nav>Índice</nav>
 <article>
     <img src="sharewww.png"/>
     {{ .Content -}}
-<ul>
-{{ range .Pages }}
-	<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-{{ end }}
-
+    {{ range (where .Site.RegularPages "Type" "posts").Reverse }}
+      <div class="post"><h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    <p>{{ .Summary }}</p>
+    </div>
+      
+    {{ end }}
 
 </article>
 {{- partial "footer.html" . }}

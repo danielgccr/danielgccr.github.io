@@ -1,6 +1,7 @@
 ---
 title: "Prefacio"
-subtitle: 'Planisferio de la web: pasado y presente'
+summary: 'Planisferio de la web: pasado y presente'
+date: 2003-03-31T01:36:50+02:00
 ---
 
 # Una historia.

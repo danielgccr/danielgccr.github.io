@@ -1,6 +1,7 @@
 ---
 title: '8. CI/CD: despliegue de tus obras'
-subtitle: 'O cómo tener tu espacio personal en la Internet del hoy con técnicas modernas'
+summary: 'O cómo tener tu espacio personal en la Internet del hoy con técnicas modernas'
+date: 2022-03-31T01:36:50+02:00
 ---
 
 # CI/CD
