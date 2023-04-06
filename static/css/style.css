@@ -1,61 +1,67 @@
 
-        body {
-            background-image: url(/background.jpg);
-            font-size: 16px;
-            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-        }
-        #container {
-            margin: auto;
-            width: 60%;
-        }
-        header {
-            border-radius: 1em 1em 0 0;
-            border: 2px solid #fff;
-            margin-bottom: 1em;
-            background: -webkit-linear-gradient(left, #007acc 0%, aliceblue 90%);
-            padding: 1em;
-            background-position: right;
-        }
-        header a {
-            text-decoration: none;
-            color: #FFF;
-            font-weight: bolder;
-            margin-right: 1em;
-            font-size: 1.25em;
-            font-family: VT323;
-        }
-        header a:hover {
-            text-decoration: underline;
-        }
-        #logo {
-            font-size: 32px;
-        }
-        nav {
-            background-color: #444;
-            color: #FFF;
-            font-weight: bolder;
-            text-align: center;
-            padding: .5em;
-            font-size: 1.5em;
-        }
-        article {
-            background-color: #FFF;
-            padding: .5em;
-        }
-        .post {
-            background-color: antiquewhite;
-            padding: .35rem 1.2rem;
-            margin-bottom: 1rem;
-        }
-        /* Personalizando el texto */
-        .highlight {
-            overflow: auto;
-        }
-        code {
-            padding: .4em;
-            white-space : pre-wrap !important;
-        }
-        a {
-            color: #007acc;
-            font-weight: bolder;
-        }
+body {
+    background-image: url(/background.jpg);
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#container {
+    margin: auto;
+    width: 60%;
+}
+header {
+    border-radius: 1em 1em 0 0;
+    border: 2px solid #fff;
+    margin-bottom: 1em;
+    background: -webkit-linear-gradient(left, #007acc 0%, aliceblue 90%);
+    padding: 1em;
+    background-position: right;
+}
+header a {
+    text-decoration: none;
+    color: #FFF;
+    font-weight: bolder;
+    margin-right: 1em;
+    font-size: 1.25em;
+    font-family: VT323;
+}
+header a:hover {
+    text-decoration: underline;
+}
+#logo {
+    font-size: 32px;
+}
+nav {
+    background-color: #444;
+    color: #FFF;
+    font-weight: bolder;
+    text-align: center;
+    padding: .5em;
+    font-size: 1.5em;
+}
+article {
+    background-color: #FFF;
+    padding: .5em;
+}
+.post {
+    background-color: antiquewhite;
+    padding: .35rem 1.2rem;
+    margin-bottom: 1rem;
+}
+/* Personalizando el texto */
+.highlight {
+    overflow: auto;
+}
+code {
+    padding: .4em;
+    white-space : pre-wrap !important;
+}
+a {
+    color: #007acc;
+    font-weight: bolder;
+}
+img {
+    max-width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
